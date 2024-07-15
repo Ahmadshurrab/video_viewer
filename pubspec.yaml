@@ -15,12 +15,12 @@ dependencies:
     git:
       url: https://github.com/mitch2na/helpers.git
       ref: main
-  http: ^0.13.4
+  http: ^1.2.1
   path_provider: ^2.0.6
   provider: ^6.0.1
   video_player: ^2.7.0
   volume_watcher: ^2.0.1
-  wakelock: ^0.6.1+2
+  #wakelock: ^0.6.1+2
   video_player_web_hls: ^1.2.1
 
 dev_dependencies:
